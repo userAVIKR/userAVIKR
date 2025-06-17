@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Front-End Dev | Learning Backend | <br>🤖 AI/ML Enthusiast 🎨 Crafting clean UIs with powerful backends. <br>🚀 Merging code with intelligence.
+👨‍💻 FULL-STACK DEV | <br>🤖 AI/ML Enthusiast 🎨 Crafting clean UIs with powerful backends. <br>🚀 Merging code with intelligence.
 
 
 ## 🌐 Socials:
